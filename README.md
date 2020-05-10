@@ -1,5 +1,5 @@
 # This is my version of the README
-
+# This is my updated version of the README to test Git functionality
 ---
 
 Make sure to personalize your welcome message with something unique!
